@@ -1,0 +1,36 @@
+<section class="content-header">
+  <div class="container-fluid">
+    <div class="row mb-2">
+      <div class="col-sm-6">
+        <h1>Discussion</h1>
+      </div>
+    </div>
+  </div><!-- /.container-fluid -->
+</section>
+
+<!-- Main content -->
+<section class="content">
+  <div class="container-fluid">
+
+    <!-- Timelime example  -->
+    <div class="row">
+      <div class="col-md-12">
+        <!-- The time line -->
+        <div class="timeline">
+
+          <!-- timeline item -->
+          <!-- <div>
+            <div class="timeline-item">
+              <span class="time">Category: {{ $postingan->Category->name }}</span>
+              <h3 class="timeline-header"><a href="#">{{ $postingan->title }}</a> post</h3>
+
+              <div class="timeline-body">
+                {{ $postingan->description }}
+              </div>
+              <div class="timeline-footer">
+                <a class="btn btn-primary btn-sm">Read more</a>
+                <a class="btn btn-danger btn-sm">Delete</a>
+              </div>
+            </div>
+          </div> -->
+          <!-- END timeline item -->
